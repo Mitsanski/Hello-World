@@ -2,4 +2,5 @@
 
 Hello Humans ! 
 
-Im Kiril and this is my first repository . Yeet on the hater
+Im Kiril and this is my first repository .
+
